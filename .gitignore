@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment files (keep the example template)
+.env
+.env.*
+!.env.example
+
+# Runtime logs
+logs/
+*.log
+
+# Build and test output
+dist/
+build/
+coverage/
+
+# Local editor and OS files
+.idea/
+.DS_Store
+Thumbs.db
